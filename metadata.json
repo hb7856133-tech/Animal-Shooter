@@ -1,0 +1,7 @@
+{
+  "name": "Animal Shooter",
+  "description": "A 2D mobile physics puzzle game where you launch animal projectiles into a dense canopy formation to trigger chain bursts and falling drops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
